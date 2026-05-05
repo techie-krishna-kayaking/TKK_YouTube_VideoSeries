@@ -1,49 +1,38 @@
-# SQL Interview Question Series
+# TKK YouTube Video Series - Notes & Code
 
-Welcome to the **SQL Interview Question Series**!  
-This repository is designed to help candidates prepare for SQL-related technical interviews. It includes a wide variety of practical questions and examples that will improve your skills in querying, data modeling, and optimization, particularly using Oracle SQL.
-
----
-
-## 📺 Oracle Database Setup – Video Guide
-
-To get started with Oracle Database, follow the video setup guide linked below:
-
-🔴▶️ **Oracle Database Setup Playlist**  
-[Watch on YouTube](https://youtube.com/playlist?list=PLhXtefn-T4nip7Y5iZEheT4cj3aFiz1g5&si=QonoN6RTXriTj4fR)
+Welcome to the **Techie Krishna Kayaking** YouTube Video Series repository!  
+This repo contains notes and code files for each video series published on my YouTube channel. Each video has a single dedicated file — no extra folders, just clean and simple.
 
 ---
 
-## 🛠️ DBeaver Setup Guide
+## 📺 Video Series
 
-DBeaver is a free, universal SQL client that makes working with Oracle databases more convenient. Here's how to configure your connection:
+### 1. SQL Interview Series
+Notes & code for the complete SQL Interview Question Series.
 
-### 🔹 Basic Connection Parameters
-- **HOST:** `localhost`  
-- **PORT:** `1521`  
-- **DATABASE:** `XEPDB1`  
-- **SERVICE NAME:** `Service Name`
+🔴▶️ **[Watch the Playlist on YouTube](https://www.youtube.com/playlist?list=PLhXtefn-T4nip7Y5iZEheT4cj3aFiz1g5)**
 
-### 🔹 Authentication
-- **USERNAME:** `system`  
-- **ROLE:** `Normal`  
-- **PASSWORD:** *(use your system password)*  
-- **CLIENT:** `OraDB21Home1`  
+📄 File: `SQL-InterviewSeries-GitHub.sql`
 
 ---
 
-## 🧠 What's Inside?
-This repo includes:
-- Real-world SQL interview questions
-- Oracle SQL scripts and schema setup
-- Query optimization tips
-- Practice exercises with solutions
+### 2. DWH Masterclass (2 Hours)
+Comprehensive Data Warehouse masterclass covering core DWH concepts.
+
+🔴▶️ **[Watch on YouTube](https://youtu.be/I0t1gkU7WNA)**
+
+📄 File: `NOTES_DWHMasterClass.pdf`
 
 ---
 
-## 🚀 Get Started
-1. Set up Oracle and DBeaver using the guide above.
-2. Clone this repository.
-3. Start practicing with the scripts provided in the `/questions` directory.
+## 📫 Connect with Me
 
-Happy learning and good luck with your interviews! 🎯
+Made with ❤️ by **Krishna** — [Techie Krishna Kayaking](https://www.youtube.com/@TechieKrishnaKayaking)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnakayaking/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TechieKrishnaKayaking)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/techiekrishnakayaking/)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.techiekrishnakayaking.com/)
+[![Topmate](https://img.shields.io/badge/Topmate-FFCC00?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=black)](https://topmate.io/techie_krishna_kayaking)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:KrishnaKayaking@gmail.com)
+[![Play Store](https://img.shields.io/badge/Play%20Store-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=co.diaz.ycvkc&hl=en_IN)

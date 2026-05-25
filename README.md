@@ -16,12 +16,21 @@ Notes & code for the complete SQL Interview Question Series.
 
 ---
 
-### 2. DWH Masterclass (2 Hours)
-Comprehensive Data Warehouse masterclass covering core DWH concepts.
+### 2. DWH FULL Course (2 Hours)
+Comprehensive Data Warehouse FULL Course covering core DWH concepts.
 
 🔴▶️ **[Watch on YouTube](https://youtu.be/I0t1gkU7WNA)**
 
-📄 File: `NOTES_DWHMasterClass.pdf`
+📄 File: `NOTES_DWHFULL Course.pdf`
+
+---
+
+### 3. ETL Testing FULL Course (2 Hours)
+Comprehensive ETL Testing FULL Course covering all the ETL testing concepts.
+
+🔴▶️ **[Watch on YouTube](https://youtu.be/U6auKlwl3zs)**
+
+📄 File: `NOTES_ETLTesting_FullCourse.pdf`
 
 ---
 

@@ -4,7 +4,10 @@ Welcome to the **Techie Krishna Kayaking** YouTube Video Series repository!
 This repo contains notes and code files for each video series published on my YouTube channel. Each video has a single dedicated file — no extra folders, just clean and simple.
 
 ---
+## ▶️ ⏭️ PLAYLIST - 
+🔴▶️ **[Watch the Playlist on YouTube](https://www.youtube.com/watch?v=U6auKlwl3zs&list=PLhXtefn-T4njrv4MS1aiB5w3P0w9jBVYE)**
 
+---
 ## 📺 Video Series
 
 ### 1. SQL Interview Series

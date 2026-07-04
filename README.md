@@ -5,7 +5,7 @@ This repo contains notes and code files for each video series published on my Yo
 
 ---
 ## ▶️ ⏭️ PLAYLIST - 
-🔴▶️ **[Watch the Playlist on YouTube](https://www.youtube.com/watch?v=U6auKlwl3zs&list=PLhXtefn-T4njrv4MS1aiB5w3P0w9jBVYE)**
+🔴▶️ **[Watch the Playlist on YouTube](https://www.youtube.com/playlist?list=PLhXtefn-T4njrv4MS1aiB5w3P0w9jBVYE)**
 
 ---
 ## 📺 Video Series

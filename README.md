@@ -36,7 +36,7 @@ Comprehensive ETL Testing FULL Course covering all the ETL testing concepts.
 📄 File: `NOTES_ETLTesting_FullCourse.pdf`
 
 ---
-### 3. Python Full COURSE (2.5 Hours)
+### 4. Python Full COURSE (2.5 Hours)
 Fundamentals of Python, VS Code, Extensions, Python - variable, print, numeric operations, lists, tuples, , dictionary, functions.
 
 🔴▶️ **[Watch on YouTube](https://youtu.be/sktjWkMfHAY)**
